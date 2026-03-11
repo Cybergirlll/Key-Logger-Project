@@ -1,9 +1,0 @@
-2024-11-18 09:11:02,051: Special key Key.ctrl_l pressed
-2024-11-18 09:11:02,475: Key  pressed
-2024-11-18 09:11:02,573: Unhandled exception in listener callback
-Traceback (most recent call last):
-  File "pynput\_util\__init__.py", line 229, in inner
-  File "pynput\keyboard\_win32.py", line 319, in _process
-  File "pynput\_util\__init__.py", line 145, in inner
-  File "keyL.py", line 15, in on_release
-NameError: name 'Key' is not defined
