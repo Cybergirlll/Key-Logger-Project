@@ -145,5 +145,9 @@ The system should only be used in:
 ---
 
 # Author
-Samar Said  
-Cybersecurity Engineer | Cybersecurity Trainer | Researcher
+الفريق :
+• الجوهرة القحطاني
+• بادية البلاجي
+• فاطمة هميلي
+• سمية الفته
+اشراف : م . سمر الهوار ى
